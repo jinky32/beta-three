@@ -1,0 +1,23 @@
+{
+  "name": "beta-three",
+  "homepage": "https://github.com/Three-PDT/beta-three",
+  "authors": [
+    "jinky32 <jinky32@gmail.com>"
+  ],
+  "description": "playing with IA",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Medium.js": "medium.js#~1.0.1",
+    "dragula.js": "dragula#~3.5.4"
+  }
+}
